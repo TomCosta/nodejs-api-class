@@ -32,7 +32,7 @@ cd ./user-api
 ```bash
 npm install
 ```
-### Rodar localmente no navegador
+### Rodar localmente o servidor
 ```bash
 npm start
 ```
