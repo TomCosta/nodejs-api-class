@@ -41,7 +41,7 @@ npm start
     Made with 💜​​ by:
 </p>
 <p align="center">
-    <img src="https://tomsys.page/images/index-app/logo-tomsys2.png" width="60" height="60">
+    <img src="https://tomsys.page/images/index-app/logo-tomsys2.png" width="40" height="40">
 </p>
 
 [CHANGELOG]: ./CHANGELOG.md
